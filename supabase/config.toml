@@ -1,0 +1,7 @@
+project_id = "rfgoiinlcakucvxppxmf"
+
+[functions.chatbot]
+verify_jwt = false
+
+[functions.ai-planner]
+verify_jwt = false
